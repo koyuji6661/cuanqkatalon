@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>03_verify Tentang Kami menu is present and able to click</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>924c1f28-82b5-438d-a071-4cdf45cd6099</testCaseGuid>
+</TestCaseEntity>

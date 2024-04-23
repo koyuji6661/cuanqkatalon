@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Metode Kerja</name>
+   <tag></tag>
+   <elementGuidId>2c999a66-69d4-4415-8987-dd283fe84baa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mx-navbar-builder']/div/div/div[2]/div/ul/li[5]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#mx-navbar-builder >> internal:role=link[name=&quot;Metode Kerja&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>53b32330-2f75-48f6-bbf2-c449197387a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mx-button-text</value>
+      <webElementGuid>9e76938f-16e7-4f0b-a668-ee8a85057016</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Metode Kerja</value>
+      <webElementGuid>965b8d21-52fa-477a-9a09-c868cbb35d66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mx-navbar-builder&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;mx-header-box&quot;]/div[@class=&quot;mx-nav-links js-menu&quot;]/div[@class=&quot;mx-nav-links-wrapper&quot;]/ul[@class=&quot;mx-nav-list mx-nav-list--desktop&quot;]/li[@class=&quot;mx-nav-item&quot;]/a[@class=&quot;mx-button mx-button-nav-link nav-link mx-button--empty spy-scroll-primary&quot;]/span[@class=&quot;mx-button-text&quot;]</value>
+      <webElementGuid>1024cd24-845d-48b2-8a50-3e7dd7cceef8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mx-navbar-builder']/div/div/div[2]/div/ul/li[5]/a/span</value>
+      <webElementGuid>5c773a1a-428b-4ab7-b827-4789002413d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keuntungan'])[1]/following::span[1]</value>
+      <webElementGuid>b1d224d4-17fb-47f2-8cd0-2c4988f6c97f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Layanan'])[1]/following::span[2]</value>
+      <webElementGuid>86160111-cbd7-4096-91ed-843e4afe96f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Penawaran'])[1]/preceding::span[1]</value>
+      <webElementGuid>61179e94-9e73-4d26-81a7-d62beace21dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar'])[1]/preceding::span[2]</value>
+      <webElementGuid>db262b3d-9819-425e-9dc5-c5561aceb7fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Metode Kerja']/parent::*</value>
+      <webElementGuid>021b7884-203c-4078-80a3-9e285a5da431</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/a/span</value>
+      <webElementGuid>62c56a45-5fab-480e-8906-702f2e226bfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Metode Kerja' or . = 'Metode Kerja')]</value>
+      <webElementGuid>16eaaf13-13ae-4713-a5c8-de9be42ca739</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

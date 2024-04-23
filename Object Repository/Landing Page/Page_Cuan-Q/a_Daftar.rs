@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Daftar</name>
+   <tag></tag>
+   <elementGuidId>86b5de52-6e54-410b-863f-be20a416b84e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mx-navbar-builder']/div/div/div[2]/div/ul/li[7]/div/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.mx-button.list-group-item.mx-button--primary.mx-button--regular</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Daftar&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ba90812a-5358-46f9-b5c6-9777bc54fcf6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://connect.dev.ittron.co.id/register</value>
+      <webElementGuid>edb72bae-c422-47f8-8e77-13e1cf1eb8a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mx-button list-group-item mx-button--primary  mx-button--regular</value>
+      <webElementGuid>497dbe4b-d914-4383-be16-3d336bd4ef6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_self</value>
+      <webElementGuid>7285bf30-15dd-44e9-b22f-3c5c9ed4c865</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+    Daftar
+</value>
+      <webElementGuid>491b7b52-13ed-4ad5-897e-6bd2efedb1f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mx-navbar-builder&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;mx-header-box&quot;]/div[@class=&quot;mx-nav-links js-menu&quot;]/div[@class=&quot;mx-nav-links-wrapper&quot;]/ul[@class=&quot;mx-nav-list mx-nav-list--desktop&quot;]/li[@class=&quot;mx-nav-item&quot;]/div[@class=&quot;mx-buttons-set&quot;]/ul[@class=&quot;mx-buttons-set--list&quot;]/li[@class=&quot;buttons-set--item&quot;]/a[@class=&quot;mx-button list-group-item mx-button--primary  mx-button--regular&quot;]</value>
+      <webElementGuid>791925e8-5bac-409e-b684-80d7b75b53a5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mx-navbar-builder']/div/div/div[2]/div/ul/li[7]/div/ul/li/a</value>
+      <webElementGuid>0280bd36-a95a-4100-883f-29c6b2bbb6d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Penawaran'])[1]/following::a[1]</value>
+      <webElementGuid>d1ef56f8-f7f3-45d8-a47a-05d8f97159d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Metode Kerja'])[1]/following::a[2]</value>
+      <webElementGuid>8810fa67-b10d-468f-aa5e-12df45265613</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/preceding::a[1]</value>
+      <webElementGuid>28318fcf-489f-47ea-9370-c1fc1bea60be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://connect.dev.ittron.co.id/register')]</value>
+      <webElementGuid>90c4c438-f615-4358-9adc-b67752217809</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[7]/div/ul/li/a</value>
+      <webElementGuid>4d73ba7e-7059-4c93-86a3-8617b7cc88d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://connect.dev.ittron.co.id/register' and (text() = '
+    Daftar
+' or . = '
+    Daftar
+')]</value>
+      <webElementGuid>2fe508ee-cf69-42e7-aa65-ba40275ad63f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

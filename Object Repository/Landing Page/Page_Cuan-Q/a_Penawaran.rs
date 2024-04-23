@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Penawaran</name>
+   <tag></tag>
+   <elementGuidId>7e1605b5-5a80-4434-9f73-9af13ff62a72</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mx-navbar-builder']/div/div/div[2]/div/ul/li[6]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#mx-navbar-builder >> internal:role=link[name=&quot;Penawaran&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>fcde5808-d1b1-4553-879c-4dbee3e13a16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mx-button mx-button-nav-link nav-link mx-button--empty spy-scroll-primary</value>
+      <webElementGuid>8f365332-eb77-4f7b-9943-b12f31492aaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#mx-page-block-6</value>
+      <webElementGuid>3fa1273f-2e22-4f92-a814-f3147d9b14c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+    Penawaran
+</value>
+      <webElementGuid>407b9752-82c1-4e87-a8fe-56e0c9370c41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mx-navbar-builder&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;mx-header-box&quot;]/div[@class=&quot;mx-nav-links js-menu&quot;]/div[@class=&quot;mx-nav-links-wrapper&quot;]/ul[@class=&quot;mx-nav-list mx-nav-list--desktop&quot;]/li[@class=&quot;mx-nav-item&quot;]/a[@class=&quot;mx-button mx-button-nav-link nav-link mx-button--empty spy-scroll-primary&quot;]</value>
+      <webElementGuid>eb32ff9b-e802-48fc-be8f-bcf683ec29b8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mx-navbar-builder']/div/div/div[2]/div/ul/li[6]/a</value>
+      <webElementGuid>4997a265-8ee6-4e89-9c1e-ad88ba534698</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Metode Kerja'])[1]/following::a[1]</value>
+      <webElementGuid>162ef648-1f80-41a5-be84-b2339bc7a42e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keuntungan'])[1]/following::a[2]</value>
+      <webElementGuid>a0302c22-b657-46a3-a365-c9a2bf19ec5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar'])[1]/preceding::a[1]</value>
+      <webElementGuid>66e3c251-1282-442f-8f3c-f80868425149</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#mx-page-block-6')]</value>
+      <webElementGuid>f8b30ffc-b70f-4a7d-aba3-a90e0d9571b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/a</value>
+      <webElementGuid>94d759c7-8e1e-414c-ba8e-7ea268b88994</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#mx-page-block-6' and (text() = '
+    Penawaran
+' or . = '
+    Penawaran
+')]</value>
+      <webElementGuid>8a04a4f7-a288-455d-b0f0-7d02839605fb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

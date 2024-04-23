@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>02_verify Beranda menu is present and able to click</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2245bb23-c51b-4fcb-ad5d-6aea56e85b9a</testCaseGuid>
+</TestCaseEntity>
