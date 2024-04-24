@@ -21,9 +21,9 @@ WebUI.openBrowser('', FailureHandling.STOP_ON_FAILURE)
 
 WebUI.navigateToUrl('http://cuanq.mp.cerdaskreatif.co.id/', FailureHandling.STOP_ON_FAILURE)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Landing Page/Page_Cuan-Q/span_Tentang kami'), 'Tentang kami', FailureHandling.STOP_ON_FAILURE)
+WebUI.verifyElementText(findTestObject('Object Repository/01 Landing Page/Page_Cuan-Q/span_Tentang kami'), 'Tentang kami', FailureHandling.STOP_ON_FAILURE)
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/Landing Page/Page_Cuan-Q/a_Tentang kami'), FailureHandling.STOP_ON_FAILURE)
+WebUI.verifyElementClickable(findTestObject('Object Repository/01 Landing Page/Page_Cuan-Q/a_Tentang kami'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.closeBrowser(FailureHandling.STOP_ON_FAILURE)
 

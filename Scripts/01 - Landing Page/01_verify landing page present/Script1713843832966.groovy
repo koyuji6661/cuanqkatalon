@@ -21,7 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://cuanq.mp.cerdaskreatif.co.id/')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Landing Page/Page_Cuan-Q/div_Cuan-Q'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/01 Landing Page/Page_Cuan-Q/div_Cuan-Q'), 0)
 
 WebUI.closeBrowser()
 
