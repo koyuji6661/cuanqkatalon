@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>2c0e047e-9064-4702-9f52-5900ed0d9d4d</webElementGuid>
+      <webElementGuid>1ccf769a-ae61-48e9-9cf5-5f78b9e4772b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mx-image</value>
-      <webElementGuid>547a087f-ce53-4db7-bc98-6f7d09737dff</webElementGuid>
+      <webElementGuid>29472eca-9459-4212-b1ea-c4ff21490ef9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://maxpage.staging.ittron.co.id/application/maxpage/default/files/media/cuanq.mp.cerdaskreatif.co.id/files/Logo.png</value>
-      <webElementGuid>4020e098-5a13-4779-88d3-ffe2c5838f2e</webElementGuid>
+      <webElementGuid>6fd215d7-6c6a-4259-bc6b-26304613239e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>Logo Image</value>
-      <webElementGuid>539b92f2-45f0-4238-a0ce-4c43be7caff7</webElementGuid>
+      <webElementGuid>0e4368dc-7e92-4c99-972e-507f1d1da5d2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mx-navbar-builder&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;mx-header-box&quot;]/div[@class=&quot;mx-logo&quot;]/a[@class=&quot;mx-logo-link&quot;]/img[@class=&quot;mx-image&quot;]</value>
-      <webElementGuid>9cae4624-cdbf-4ead-ab9f-b906e61e205b</webElementGuid>
+      <webElementGuid>9c7c5b15-fdcb-4a75-91d9-4097949390a2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='mx-navbar-builder']/div/div/div/a/img</value>
-      <webElementGuid>0278e799-3003-4877-a15f-5d93375a67b1</webElementGuid>
+      <webElementGuid>f8bd19f7-752f-413f-aeb1-f5718450022e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='Logo Image']</value>
-      <webElementGuid>ef00685f-e451-4645-9eff-7671bd35daab</webElementGuid>
+      <webElementGuid>2410aa58-91af-4974-a3b1-575cdc2fe5bd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//img</value>
-      <webElementGuid>c66906f8-1ee6-4b7c-a90d-f7f7ccd877e2</webElementGuid>
+      <webElementGuid>08a124df-a72a-4079-a5c1-0d5b5da5ae0c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'https://maxpage.staging.ittron.co.id/application/maxpage/default/files/media/cuanq.mp.cerdaskreatif.co.id/files/Logo.png' and @alt = 'Logo Image']</value>
-      <webElementGuid>46b90510-2454-446c-a2ca-75d3e7030497</webElementGuid>
+      <webElementGuid>fcaabd71-e782-4797-99cf-304773ef3dfd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

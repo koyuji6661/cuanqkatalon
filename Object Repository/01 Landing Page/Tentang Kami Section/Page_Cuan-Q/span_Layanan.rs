@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Layanan</name>
+   <tag></tag>
+   <elementGuidId>8fab8c76-3d29-49b6-ab75-d14bb712712b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mx-page-block-2']/div[2]/div/div/div[2]/div[2]/div/div[3]/div/ul/li/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.button > div.mx-buttons-set > ul.mx-buttons-set--list > li.buttons-set--item > a.mx-button.list-group-item.mx-button--primary.mx-button--regular > span.mx-button-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#mx-page-block-2 >> internal:role=link[name=&quot;Layanan&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5c01cb82-d80b-4bd2-8995-556cd04f0367</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mx-button-text</value>
+      <webElementGuid>57ad0f01-00e2-46b0-aba5-052daacb4d69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Layanan</value>
+      <webElementGuid>8df93b1a-bb90-4b34-b0b1-32ba002ad676</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mx-page-block-2&quot;)/div[@class=&quot;mx-page-block-wrapper&quot;]/div[@class=&quot;mx-block mx-about-me&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row align-items-center text-center&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;introduction&quot;]/div[@class=&quot;button&quot;]/div[@class=&quot;mx-buttons-set&quot;]/ul[@class=&quot;mx-buttons-set--list&quot;]/li[@class=&quot;buttons-set--item&quot;]/a[@class=&quot;mx-button list-group-item mx-button--primary  mx-button--regular&quot;]/span[@class=&quot;mx-button-text&quot;]</value>
+      <webElementGuid>85fe62a2-6e85-4f0b-97b5-867ab34a95d2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mx-page-block-2']/div[2]/div/div/div[2]/div[2]/div/div[3]/div/ul/li/a/span</value>
+      <webElementGuid>164b12d9-60ab-45d5-b46d-d4299298f0c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cuan-Q'])[3]/following::span[1]</value>
+      <webElementGuid>de5afe04-dfc9-4ed7-b241-7a7b2e05648f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tentang Kami'])[2]/following::span[1]</value>
+      <webElementGuid>cd643918-e9a0-4c03-b7a0-d5e961014323</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hubungi Kami'])[2]/preceding::span[1]</value>
+      <webElementGuid>9b2c49d9-518e-4102-9816-ed0008ebe236</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Layanan'])[4]/preceding::span[2]</value>
+      <webElementGuid>ddc54e7a-9f1a-4d43-b14b-291af3992fa2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/ul/li/a/span</value>
+      <webElementGuid>0bd8a2bf-7d29-4abd-9715-3ff7abd45e8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Layanan' or . = 'Layanan')]</value>
+      <webElementGuid>beb8ff12-90b0-441f-bd11-00f0b849f79c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

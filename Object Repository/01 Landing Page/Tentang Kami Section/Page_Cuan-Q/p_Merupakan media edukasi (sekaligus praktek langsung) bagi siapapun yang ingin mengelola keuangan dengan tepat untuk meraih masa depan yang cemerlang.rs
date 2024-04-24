@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Merupakan media edukasi (sekaligus praktek langsung) bagi siapapun yang ingin mengelola keuangan dengan tepat untuk meraih masa depan yang cemerlang</name>
+   <tag></tag>
+   <elementGuidId>eddd9c45-51df-4672-85d4-dc0f67306772</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mx-page-block-2']/div[2]/div/div/div[2]/div[2]/div/div[2]/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Merupakan media edukasi (sekaligus praktek langsung) bagi siapapun yang ingin me&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>40753bac-1640-4851-ad8a-b04ce92be63d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>align</name>
+      <type>Main</type>
+      <value>left</value>
+      <webElementGuid>3b05a4aa-eaf4-48d7-af6d-ca824ecc80d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Merupakan media edukasi (sekaligus praktek langsung) bagi siapapun yang ingin mengelola keuangan dengan tepat untuk meraih masa depan yang cemerlang</value>
+      <webElementGuid>718b2506-ef8d-4a4d-b52b-09a7ff182be5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mx-page-block-2&quot;)/div[@class=&quot;mx-page-block-wrapper&quot;]/div[@class=&quot;mx-block mx-about-me&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row align-items-center text-center&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;introduction&quot;]/div[@class=&quot;content-text&quot;]/p[1]</value>
+      <webElementGuid>966d3d78-72bb-438c-894e-efec65854375</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mx-page-block-2']/div[2]/div/div/div[2]/div[2]/div/div[2]/p</value>
+      <webElementGuid>2041d59c-6631-47e1-a566-c830349faab8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cuan-Q'])[3]/following::p[1]</value>
+      <webElementGuid>018e8dd3-86e5-4a1e-b25d-e87dcf174a3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tentang Kami'])[2]/following::p[1]</value>
+      <webElementGuid>4fe20fbd-6487-445f-9f1f-264187305019</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Layanan'])[3]/preceding::p[1]</value>
+      <webElementGuid>9d19c91b-cf90-401f-b172-a4ab16e8e63c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hubungi Kami'])[2]/preceding::p[1]</value>
+      <webElementGuid>513d5041-23ff-4f0f-b3ae-78562db164d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Merupakan media edukasi (sekaligus praktek langsung) bagi siapapun yang ingin mengelola keuangan dengan tepat untuk meraih masa depan yang cemerlang']/parent::*</value>
+      <webElementGuid>a1a2293d-7cf0-4d0e-bb08-2212701a094f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>ece6d1a7-c1e4-4b3f-beba-fb52d46e0abb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Merupakan media edukasi (sekaligus praktek langsung) bagi siapapun yang ingin mengelola keuangan dengan tepat untuk meraih masa depan yang cemerlang' or . = 'Merupakan media edukasi (sekaligus praktek langsung) bagi siapapun yang ingin mengelola keuangan dengan tepat untuk meraih masa depan yang cemerlang')]</value>
+      <webElementGuid>b6a755da-e271-47c3-9fe6-8869eca85f60</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

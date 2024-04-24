@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Platform Edukasi  Praktek tentang Literasi Keuangan</name>
+   <name>div_Selamat Datang di</name>
    <tag></tag>
-   <elementGuidId>499e8f54-c812-44b5-aca6-5f0461db36a8</elementGuidId>
+   <elementGuidId>12f623d3-20bb-4add-a8a1-a90cc4ee0bbc</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='mx-page-block-1']/div[2]/div/div/div/div/div[3]</value>
+         <value>//div[@id='mx-page-block-1']/div[2]/div/div/div/div/div</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>div.subtitle</value>
+         <value>div.intro</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:text=&quot;Platform Edukasi &amp; Praktek tentang Literasi Keuangan&quot;i</value>
+         <value>internal:text=&quot;Selamat Datang di&quot;i</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,15 +29,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>91b3b689-2c90-43b2-8700-1cca3952cb2c</webElementGuid>
+      <webElementGuid>15354473-6064-425c-83a6-6bc5f7cf75f6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>subtitle</value>
-      <webElementGuid>6ab1cdf5-2991-4f7a-8aa6-452ef75be3c2</webElementGuid>
+      <value>intro</value>
+      <webElementGuid>b091bda1-3204-4f8b-8907-17764398eeb5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,73 +45,73 @@
       <name>text</name>
       <type>Main</type>
       <value>
-                    Platform Edukasi &amp; Praktek tentang Literasi Keuangan
+                    Selamat Datang di
                 </value>
-      <webElementGuid>e3b153c7-3bae-4c8d-ae57-3ca70bdba4f7</webElementGuid>
+      <webElementGuid>06c2f91c-0770-4c9d-9f8e-4df2266067db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;mx-page-block-1&quot;)/div[@class=&quot;mx-page-block-wrapper&quot;]/div[@class=&quot;mx-block mx-personal-branding&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row align-items-center&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;subtitle&quot;]</value>
-      <webElementGuid>beb7c6a5-44a6-4faa-8493-9473c5345007</webElementGuid>
+      <value>id(&quot;mx-page-block-1&quot;)/div[@class=&quot;mx-page-block-wrapper&quot;]/div[@class=&quot;mx-block mx-personal-branding&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row align-items-center&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;intro&quot;]</value>
+      <webElementGuid>370464d3-7742-41d6-b6bb-e1eb4e1d6837</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='mx-page-block-1']/div[2]/div/div/div/div/div[3]</value>
-      <webElementGuid>2f12508e-c45b-43ac-abbd-db86036c8c5e</webElementGuid>
+      <value>//div[@id='mx-page-block-1']/div[2]/div/div/div/div/div</value>
+      <webElementGuid>0d4cd3ef-c1bb-4519-af25-b77ccda12dc2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cuan-Q'])[2]/following::div[1]</value>
-      <webElementGuid>c29b6360-252a-44a0-b42a-8b2978225b4c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[2]/following::div[11]</value>
+      <webElementGuid>bd2cc63f-cca3-4042-b760-e9dc02d996a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selamat Datang di'])[1]/following::div[2]</value>
-      <webElementGuid>878e3fb8-eac0-4a17-be14-08854fcbac34</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar'])[2]/following::div[11]</value>
+      <webElementGuid>301e02a9-8378-433a-9762-53fd47da4e4f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tentang Kami'])[1]/preceding::div[1]</value>
-      <webElementGuid>b7b46595-6e7c-4728-b469-f62fa027f8dd</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cuan-Q'])[2]/preceding::div[1]</value>
+      <webElementGuid>53d56f7f-e316-4f05-b09e-b3659b8ed50a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hubungi Kami'])[1]/preceding::div[1]</value>
-      <webElementGuid>69760dd9-4c21-4fe8-99fa-ce146ca52d39</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Platform Edukasi &amp; Praktek tentang Literasi Keuangan'])[1]/preceding::div[2]</value>
+      <webElementGuid>e6da860d-b685-4cb1-85a1-4e3219b1abd0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Platform Edukasi &amp; Praktek tentang Literasi Keuangan']/parent::*</value>
-      <webElementGuid>abba3d5e-5e31-44f4-acb0-a139e454ec52</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Selamat Datang di']/parent::*</value>
+      <webElementGuid>a32f4c78-1653-4686-8dc4-2bd9ffd473e3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/div[3]</value>
-      <webElementGuid>1eb18d0d-9216-4177-9337-5371ab8f7e43</webElementGuid>
+      <value>//div[2]/div[2]/div/div/div/div/div</value>
+      <webElementGuid>f1d5b9e8-662c-4da1-87ca-22c85ac72fb2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,10 +119,10 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = '
-                    Platform Edukasi &amp; Praktek tentang Literasi Keuangan
+                    Selamat Datang di
                 ' or . = '
-                    Platform Edukasi &amp; Praktek tentang Literasi Keuangan
+                    Selamat Datang di
                 ')]</value>
-      <webElementGuid>5ab58720-51b4-4119-90c1-08361258e800</webElementGuid>
+      <webElementGuid>8096f0b3-89d8-434d-b841-065b44222894</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

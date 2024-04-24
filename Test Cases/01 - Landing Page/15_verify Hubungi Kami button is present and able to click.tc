@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>15_verify Hubungi Kami button is present and able to click</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b8d7b73f-a6b6-4b0d-97ec-00d5164f34f8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1670df81-7ff6-4053-a90d-2374ed1224dc</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1670df81-7ff6-4053-a90d-2374ed1224dc</id>
+      <masked>false</masked>
+      <name>link_wa</name>
+   </variable>
+</TestCaseEntity>

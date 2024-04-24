@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Layanan</name>
+   <tag></tag>
+   <elementGuidId>66a90769-bcfb-4bfa-ada9-a93a36052982</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mx-page-block-2']/div[2]/div/div/div[2]/div[2]/div/div[3]/div/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.button > div.mx-buttons-set > ul.mx-buttons-set--list > li.buttons-set--item > a.mx-button.list-group-item.mx-button--primary.mx-button--regular</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#mx-page-block-2 >> internal:role=link[name=&quot;Layanan&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>448d890a-0696-4ff4-a0b7-cf0a34332f99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#mx-page-block-3</value>
+      <webElementGuid>65165232-5073-4e26-9543-263a7bb404a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mx-button list-group-item mx-button--primary  mx-button--regular</value>
+      <webElementGuid>b1da189c-ab21-43e0-957f-afdb9ddb1750</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_self</value>
+      <webElementGuid>a30f83f6-df74-4047-aa2d-6649b79b6094</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+    Layanan
+</value>
+      <webElementGuid>daa68448-8e09-47d0-90f8-7830ada6251f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mx-page-block-2&quot;)/div[@class=&quot;mx-page-block-wrapper&quot;]/div[@class=&quot;mx-block mx-about-me&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row align-items-center text-center&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;introduction&quot;]/div[@class=&quot;button&quot;]/div[@class=&quot;mx-buttons-set&quot;]/ul[@class=&quot;mx-buttons-set--list&quot;]/li[@class=&quot;buttons-set--item&quot;]/a[@class=&quot;mx-button list-group-item mx-button--primary  mx-button--regular&quot;]</value>
+      <webElementGuid>d1e4a28a-c216-4594-ac77-50a332845929</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mx-page-block-2']/div[2]/div/div/div[2]/div[2]/div/div[3]/div/ul/li/a</value>
+      <webElementGuid>46d76021-61cf-4079-9841-3777ba195489</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cuan-Q'])[3]/following::a[1]</value>
+      <webElementGuid>f285b21e-467b-40e0-b15e-a6e553f09e56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tentang Kami'])[2]/following::a[1]</value>
+      <webElementGuid>5bc0c258-4c58-4676-a924-7f58f7235d46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hubungi Kami'])[2]/preceding::a[1]</value>
+      <webElementGuid>56df0919-88f7-420f-a9f1-309c9542917a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#mx-page-block-3')])[3]</value>
+      <webElementGuid>488c522f-526a-43af-a39e-70ea989dd497</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/ul/li/a</value>
+      <webElementGuid>8eaeb28c-a36b-48f7-a97b-5e712bb5e7d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#mx-page-block-3' and (text() = '
+    Layanan
+' or . = '
+    Layanan
+')]</value>
+      <webElementGuid>c581d805-8ac6-4acc-90cb-ea2609c26df6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
