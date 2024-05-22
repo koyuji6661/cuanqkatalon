@@ -21,13 +21,17 @@ WebUI.openBrowser('', FailureHandling.STOP_ON_FAILURE)
 
 WebUI.navigateToUrl('http://cuanq.mp.cerdaskreatif.co.id/', FailureHandling.STOP_ON_FAILURE)
 
-WebUI.verifyElementText(findTestObject('Object Repository/01 Landing Page/Page_Cuan-Q/span_Tentang Kami button hero'), 'Tentang Kami', FailureHandling.STOP_ON_FAILURE)
+WebUI.verifyElementText(findTestObject('Object Repository/01 Landing Page/Tentang Kami Section/Page_Cuan-Q/span_Hubungi Kami'), 
+    'Hubungi Kami', FailureHandling.STOP_ON_FAILURE)
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/01 Landing Page/Page_Cuan-Q/a_Tentang Kami button hero'), FailureHandling.STOP_ON_FAILURE)
+WebUI.verifyElementClickable(findTestObject('Object Repository/01 Landing Page/Tentang Kami Section/Page_Cuan-Q/a_Hubungi Kami'), 
+    FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/01 Landing Page/Page_Cuan-Q/a_Tentang kami button hero'))
+WebUI.click(findTestObject('Object Repository/01 Landing Page/Tentang Kami Section/Page_Cuan-Q/a_Hubungi Kami'))
 
-WebUI.verifyElementVisibleInViewport(findTestObject('01 Landing Page/Tentang Kami Section/Page_Cuan-Q/div_Tentang Kami'), 3, FailureHandling.STOP_ON_FAILURE)
+link = WebUI.getUrl()
+
+WebUI.verifyMatch(link, 'https://api.whatsapp.com/send/?phone=6285175150021&text&type=phone_number&app_absent=0', false)
 
 WebUI.closeBrowser(FailureHandling.STOP_ON_FAILURE)
 

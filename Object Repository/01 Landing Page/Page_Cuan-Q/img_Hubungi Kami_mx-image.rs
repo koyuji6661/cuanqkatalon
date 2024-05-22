@@ -3,18 +3,23 @@
    <description></description>
    <name>img_Hubungi Kami_mx-image</name>
    <tag></tag>
-   <elementGuidId>d6208a73-3c31-4d51-8708-f4d85b4f2af2</elementGuidId>
+   <elementGuidId>378a4b43-ea2d-490e-a0b1-c3504c223bd1</elementGuidId>
+   <imagePath>../../Downloads/Section-Utama.png</imagePath>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='mx-page-block-1']/div[2]/div/div/div/div[2]/img</value>
+         <key>IMAGE</key>
+         <value>../../Downloads/Section-Utama.png</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>div.col-md-6.mx-personal-branding-image > img.mx-image</value>
       </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mx-page-block-1']/div[2]/div/div/div/div[2]/img</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>IMAGE</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
@@ -29,7 +34,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>53178798-8d9a-4e10-bbfb-52aab054fea5</webElementGuid>
+      <webElementGuid>0faea50c-0589-435e-b879-79729741dbea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +42,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mx-image</value>
-      <webElementGuid>2f49da9d-10cf-414d-8e78-bb0dfa7c316f</webElementGuid>
+      <webElementGuid>af578292-6bab-494d-8991-6f2c6e9ba3d3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +50,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://maxpage.staging.ittron.co.id/application/maxpage/default/files/media/cuanq.mp.cerdaskreatif.co.id/files/Section-Utama.png</value>
-      <webElementGuid>6f01abe2-870b-48dc-adac-86e8cf0a4cd5</webElementGuid>
+      <webElementGuid>a78fba1a-88f1-443b-8829-f2d5342e9f24</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +58,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mx-page-block-1&quot;)/div[@class=&quot;mx-page-block-wrapper&quot;]/div[@class=&quot;mx-block mx-personal-branding&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row align-items-center&quot;]/div[@class=&quot;col-md-6 mx-personal-branding-image&quot;]/img[@class=&quot;mx-image&quot;]</value>
-      <webElementGuid>bf2b26e5-7a0f-4c50-b46e-535c8dabd453</webElementGuid>
+      <webElementGuid>256b722c-0e8e-44f8-9649-675ca2ffe488</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +66,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='mx-page-block-1']/div[2]/div/div/div/div[2]/img</value>
-      <webElementGuid>d3fb5e56-e7a2-4d8f-b8eb-2d67449bdc75</webElementGuid>
+      <webElementGuid>753842f6-7561-461a-947a-603f492244bd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +74,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[contains(@src,'https://maxpage.staging.ittron.co.id/application/maxpage/default/files/media/cuanq.mp.cerdaskreatif.co.id/files/Section-Utama.png')]</value>
-      <webElementGuid>b19a4766-b53d-4b28-84f2-fe767ec6bc83</webElementGuid>
+      <webElementGuid>8e238e80-61de-4c5e-9362-7f0fafe6f21c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +82,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/img</value>
-      <webElementGuid>e1c3e53d-906e-4a65-8316-3e8e2c3f2821</webElementGuid>
+      <webElementGuid>d06ce492-ad5f-4bc7-89b3-e169c82b6d85</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,6 +90,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'https://maxpage.staging.ittron.co.id/application/maxpage/default/files/media/cuanq.mp.cerdaskreatif.co.id/files/Section-Utama.png']</value>
-      <webElementGuid>bbfaac1f-11d2-4a1a-a63c-631f06dce2ff</webElementGuid>
+      <webElementGuid>9fedb75e-6e6a-4d54-b444-c698d03e0f64</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Layanan button in Tentang Kami section is able to click and scroll to Layanan Section</description>
+   <name>20_verify Layanan button in Tentang Kami section is able to click</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>83006c03-6be7-47fe-bc23-9ba600b6b2ec</testCaseGuid>
+</TestCaseEntity>
